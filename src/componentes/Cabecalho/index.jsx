@@ -1,3 +1,4 @@
+import React from "react"
 import logo from "./logo.png"
 import search from "./search.png"
 import styles from "./Cabecalho.module.scss" /* o module dá escopo local ao arquivo */
