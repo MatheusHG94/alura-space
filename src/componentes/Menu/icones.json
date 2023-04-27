@@ -1,0 +1,38 @@
+
+[
+    {
+        "id": "1",
+        "path": "/assets/imagens/icones/home-ativo.png",
+        "alt": "ícone home",
+        "href": "/",
+        "ancora": "Início"
+    },
+    {
+        "id": "2",
+        "path": "/assets/imagens/icones/mais-curtidas-inativo.png",
+        "alt": "ícone coração de curtir",
+        "href": "/",
+        "ancora": "Mais curtidas"
+    },
+    {
+        "id": "3",
+        "path": "/assets/imagens/icones/mais-vistas-inativo.png",
+        "alt": "ícone olho aberto",
+        "href": "/",
+        "ancora": "Mais vistas"
+    },
+    {
+        "id": "4",
+        "path": "/assets/imagens/icones/novas-inativo.png",
+        "alt": "ícone estrela brilhando",
+        "href": "/",
+        "ancora": "Novas"
+    },
+    {
+        "id": "5",
+        "path": "/assets/imagens/icones/surpreenda-me-inativo.png",
+        "alt": "ícone lâmpada",
+        "href": "/",
+        "ancora": "Surpreenda-me"
+    }
+]
