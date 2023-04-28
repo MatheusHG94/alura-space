@@ -1,13 +1,13 @@
 @import "../../../styles/variaveis";
 
 .tags {
-  width: 65vw;
   display: flex;
   justify-content: space-between;
   align-items: center;
   color: $cor-do-texto;
   font-family: $fonte-normal;
   font-size: 16px;
+  padding-right: 30px;
 
   p {
     font-size: 1.25rem;

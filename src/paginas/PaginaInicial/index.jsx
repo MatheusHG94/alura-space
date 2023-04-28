@@ -5,6 +5,7 @@ import Menu from "../../componentes/Menu";
 import Banner from "../../componentes/Banner";
 import Rodape from "../../componentes/Rodape";
 import Galeria from "../../componentes/Galeria";
+import Populares from "../../componentes/Populares";
 
 export default function PaginaInicial() {
     return (
@@ -15,10 +16,11 @@ export default function PaginaInicial() {
                     <Menu />
                     <Banner />
                 </section>
+                <div className={styles.galeria} >
+                    <Galeria />
+                    <Populares />
+                </div>
             </main>
-            <div className={styles.galeria} >
-                <Galeria />
-            </div>
             <Rodape />
         </>
     );
