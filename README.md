@@ -12,7 +12,7 @@
     <li>CSS modules
     <li>Funções JS de array para renderização dinâmica de componentes
 </ul>
-<a href="https://alura-space-roan.vercel.app/" target="_blank">Verifique a aplicação aqui</a>
+<a href="https://alura-space-roan.vercel.app/" target="_blank" rel="noreferrer">Verifique a aplicação aqui</a>
 <br>
 
 ![Imagem da tela inicial da aplicação, mostrando cabeçalho, menu, banner principal, galeria de imagens e seção de fotos populares](./public/assets/imagens/app-screenshot.png)
