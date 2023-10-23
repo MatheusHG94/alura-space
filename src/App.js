@@ -7,4 +7,7 @@ export default function App() {
   );
 }
 
-/* para instalar o SASS: npm install --save-dev sass */
+/*
+  instalando SASS como dev dependency:
+  $npm install --save-dev sass
+*/

@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "./PaginaInicial.module.scss"
-
 import Cabecalho from "componentes/Cabecalho"; /* chamando componentes de forma absoluta, sem precisar de ../../componentes/... */
 import Menu from "componentes/Menu";
 import Banner from "componentes/Banner";
